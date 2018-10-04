@@ -4,4 +4,4 @@ https://www.youtube.com/watch?v=AmZJkF9jBwo&amp;t=90s which is created by Blue M
 we do not have to use buzzer. Instead, we will combine Processing and Arduino to generate alarm sound from the pc speaker when there is an object blocking the laser light.
 
 # How to run
-![GitHub Logo](/laser.jpg)
+![GitHub Logo](laser.JPG)
