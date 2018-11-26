@@ -9,4 +9,4 @@ we do not have to use buzzer. Instead, we will combine Processing and Arduino to
 
 2) Run the arduino program, make sure the arduino has been plugged to the pc. Wait for about 5 seconds.
 
-3) Run the Processing. The laser security alarm is ready to use. To change the alarm sound, copy the mp3 file into /LaserProcessing/LaserToSound/data, and rename it to sample.mp3.
+3) Run the Processing. The laser security alarm is ready to use. To change the alarm sound, copy the wmv audio file into /LaserProcessing/LaserToSound/data, and rename it to sample.wmv.
